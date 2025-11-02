@@ -38,4 +38,4 @@ I bring **end-to-end expertise** across experiment design, neural & audio data p
 ---
 
 ## 🌐 Connect
-[🌎 Website](https://www.vishalchoudhari.com) • [💼 LinkedIn](https://www.linkedin.com/in/vishalchoudhari) • [🧑‍💻 Google Scholar](https://scholar.google.com/citations?user=qW_Ows8AAAAJ&hl=en) • [✉️ Email](mailto:choudharivishal9@gmail.com)
+🌎 [Website](https://www.vishalchoudhari.com) • 💼 [LinkedIn](https://www.linkedin.com/in/vishalchoudhari) • 🧑‍💻 [Google Scholar](https://scholar.google.com/citations?user=qW_Ows8AAAAJ&hl=en) • ✉️ [Email](mailto:choudharivishal9@gmail.com)
