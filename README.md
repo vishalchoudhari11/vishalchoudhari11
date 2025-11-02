@@ -24,9 +24,11 @@ I bring **end-to-end experience** across experiment design, neural & audio data 
 
 ## 🧩 Experience
 - **Meta Reality Labs** – *Research Intern (2025)*  
-  → Built multimodal (audio + IMU + video) sensing pipelines for **Ray-Ban AI Display Glasses**  
+  → Built multimodal (audio + IMU + video) sensing pipelines for **Ray-Ban AI Display Glasses**
+  
 - **Bose Corporation** – *Research Intern (2024)*  
   → Prototyped **feed-forward noise-cancellation** algorithms
+  
 - **Columbia University** – *Ph.D. Researcher*  
   → Designed, trained, and deployed **real-time brain–audio ML models** enabling intelligent, adaptive hearing systems
 
