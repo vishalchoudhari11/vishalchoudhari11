@@ -1,6 +1,7 @@
 # 👋 Hi, I'm **Vishal Choudhari**
 
 🎓 **Ph.D. Candidate, Electrical Engineering @ Columbia University**  
+
 🎙️ **Speech** • 🎧 **Audio** • 🤖 **AI / ML / LLMs** • 🧠 **Brain–Computer Interfaces** • 🧬 **Health Sensing**
 
 ---
