@@ -28,7 +28,7 @@ I bring **end-to-end experience** across experiment design, neural & audio data 
 - **Bose Corporation** – *Research Intern (2024)*  
   → Prototyped **feed-forward noise-cancellation** algorithms
 - **Columbia University** – *Ph.D. Researcher*  
-  → Built and deployed **real-time brain–audio ML models** enabling intelligent, adaptive hearing systems
+  → Designed, trained, and deployed **real-time brain–audio ML models** enabling intelligent, adaptive hearing systems
 
 ---
 
