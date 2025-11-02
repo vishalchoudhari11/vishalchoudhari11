@@ -9,7 +9,7 @@
 ## ⚡ About Me
 I’m a **6th-year Ph.D. candidate in Electrical Engineering at Columbia University**, advised by **Prof. Nima Mesgarani**. My research builds **brain-controlled hearing systems** that decode neural signals in real time to identify which talker a listener is focusing on — and **selectively enhance that voice** in noisy environments.  
 
-I bring **end-to-end expertise** across experiment design, neural & audio data processing, and **ML model development for real-time inference**. My work bridges **signal processing, auditory neuroscience, and machine learning**, and I’m now exploring how **foundation models and LLMs can augment human perception**.
+I bring **end-to-end experience** across experiment design, neural & audio data processing, and **ML model development for real-time inference**. My work bridges **signal processing, auditory neuroscience, and machine learning**, and I’m now exploring how **foundation models and LLMs can augment human perception**.
 
 ---
 
