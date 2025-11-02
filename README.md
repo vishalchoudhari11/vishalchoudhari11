@@ -34,8 +34,7 @@ My work bridges **signal processing, auditory neuroscience, and machine learning
 ---
 
 ## 🧰 Tech Stack
-`Python` · `PyTorch` · `MATLAB` · `NumPy` · `SciPy` · `Transformers`  
-`Librosa` · `Torchaudio` · `ONNX`  
+`Python` · `PyTorch` · `MATLAB` · `NumPy` · `SciPy` · `Transformers` · `Librosa` · `Torchaudio` · `ONNX`  
 
 ---
 
