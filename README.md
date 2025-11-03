@@ -16,7 +16,7 @@ I bring **end-to-end experience** across experiment design, neural & audio data 
 ## 💡 Skills
 - ⚙️ **Signal Processing:** time-series analysis, multimodal sensor fusion
 - 🔊 **Speech & Audio ML:** enhancement, extraction, noise-cancellation
-- 📈 **AI & Data Science:** PyTorch, Python, Transformers, LLMs, RAG
+- 🤖 **AI & Data Science:** PyTorch, Python, Transformers, LLMs, RAG
 - 🧬 **Health Sensing:** physiological signals (EEG, iEEG, EoG)
 - 🧠 **Brain–Computer Interfaces (BCI):** neural decoding, auditory attention tracking
 
